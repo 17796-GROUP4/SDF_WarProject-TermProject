@@ -1,7 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e9629767-d74e-49bb-8838-96f3f05ad9c0" name="Default Changelist" comment="" />
+    <list default="true" id="e9629767-d74e-49bb-8838-96f3f05ad9c0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/SDF_WarProject/Card.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SDF_WarProject/CardGame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SDF_WarProject/CardGameTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SDF_WarProject/CardHand.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SDF_WarProject/Player.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SDF_WarProject/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SDF_WarProject/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allclasses-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allpackages-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/constant-values.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deprecated-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/element-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/help-doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index-files/index-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index-files/index-10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index-files/index-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index-files/index-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index-files/index-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index-files/index-5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index-files/index-6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index-files/index-7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index-files/index-8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index-files/index-9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery/external/jquery/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery/images/ui-bg_glass_55_fbf9ee_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery/images/ui-bg_glass_65_dadada_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery/images/ui-bg_glass_75_dadada_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery/images/ui-bg_glass_75_e6e6e6_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery/images/ui-bg_glass_95_fef1ec_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery/images/ui-icons_222222_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery/images/ui-icons_2e83ff_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery/images/ui-icons_454545_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery/images/ui-icons_888888_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery/images/ui-icons_cd0a0a_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery/jquery-3.3.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery/jquery-migrate-3.0.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery/jquery-ui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery/jquery-ui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery/jquery-ui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery/jquery-ui.structure.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery/jquery-ui.structure.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery/jszip-utils/dist/jszip-utils-ie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery/jszip-utils/dist/jszip-utils-ie.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery/jszip-utils/dist/jszip-utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery/jszip-utils/dist/jszip-utils.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery/jszip/dist/jszip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery/jszip/dist/jszip.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/member-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/member-search-index.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/overview-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-search-index.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/glass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SDF_WarProject/CardGameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/type-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/type-search-index.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17796-Group4-WarProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/17796-Group4-WarProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/17796-Group4-WarProject/SDF_WarProject/Card.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/17796-Group4-WarProject/SDF_WarProject/Card.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/17796-Group4-WarProject/SDF_WarProject/CardGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/17796-Group4-WarProject/SDF_WarProject/CardGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SDF_WarProject/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDF_WarProject/Card.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SDF_WarProject/CardGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDF_WarProject/CardGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SDF_WarProject/CardHand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SDF_WarProject/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDF_WarProject/Player.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +88,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -27,14 +102,34 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1OpHQA5VTJ8TYqRSLo7myMtV4I9" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
+    <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="SDF_WarProject" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -48,7 +143,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.CardGame">
     <configuration name="CardGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SDF_WarProject.CardGame" />
       <module name="17796-Group4-WarProject" />
@@ -62,9 +157,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CardGameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="17796-Group4-WarProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SDF_WarProject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SDF_WarProject" />
+      <option name="MAIN_CLASS_NAME" value="SDF_WarProject.CardGameTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.CardGame" />
+        <item itemvalue="JUnit.CardGameTest" />
       </list>
     </recent_temporary>
   </component>
@@ -103,6 +214,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Added functionality for Card, CardGame, Player.&#10;Game is working.&#10;TODO!:&#10;Amend logical code practices with standard normals" />
     <option name="LAST_COMMIT_MESSAGE" value="Added functionality for Card, CardGame, Player.&#10;Game is working.&#10;TODO!:&#10;Amend logical code practices with standard normals" />
   </component>

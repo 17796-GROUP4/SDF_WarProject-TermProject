@@ -3,6 +3,10 @@
  */
 package SDF_WarProject;
 
+/**
+ * Player class - Used in CardGame class as object for string-literal player ID.
+ */
+
 class Player
 {
     private String playerID; //the unique ID for this player

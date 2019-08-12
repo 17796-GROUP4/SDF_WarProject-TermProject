@@ -9,6 +9,11 @@ class Card {
     private int rank; //initialize the rank (2,3,4...King, Ace)
     private int suit; //initialize the suit (spades, hearts...)
 
+    /**
+     *
+     * @param suit - suit variable for card class
+     * @param rank - rank variable for card class
+     */
     //constructor
     public Card(int suit, int rank){
         this.rank = rank;
@@ -16,15 +21,38 @@ class Card {
     }//end construcor
 
     //Accessor method
-    public int getCard(){
+    public int getCardRank(){
         return rank;
     }//end getCard
 
+    /**
+     *
+     * @param rank - rank parameter is given to the card rank, used in both the dynamic arrayList of CardGame
+     *             and in the toString switch statement
+     */
     //Mutator method
-    public void setCard(int rank){
+    public void setCardRank(int rank){
         this.rank = rank;
     }//end setCard
 
+    public int getCardSuit(){
+        return suit;
+    }
+
+    /**
+     *
+     * @param suit parameter is given to the card suit, used in both the dynamic arrayList of CardGame
+     *      *             and in the toString switch statement
+     */
+    public void setCardSuit(int suit){
+        this.suit = suit;
+    }
+
+    /**
+     * toString - Method returns an appended variable called "displayCard" which is a string combination built using
+     * StringBuilder.
+     * @return - total displayCard string is returned using StringBuilder.
+     */
     @Override
     public String toString(){
         //combine rank and suit together into a single string(ex: Ace of Diamonds)
